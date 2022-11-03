@@ -1,6 +1,7 @@
 /* styles.css */
 
-div {
+div.bold-text {
+    font-size: 22;
     color: white;
     background-color: red;
 }
