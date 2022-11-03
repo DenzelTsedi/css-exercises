@@ -1,8 +1,9 @@
 /* styles.css */
 
-div.bold-text {
-    font-size: 22;
+div {
     color: white;
     background-color: red;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
   
