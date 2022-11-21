@@ -1,12 +1,11 @@
 /* styles.css*/
 
-.number,
-.number0 {
+.odd {
     background-color: pink;
     font-family: "Verdana", "DejaVu sans" sans-serif;
 }
 
-.number0 {
+.cool {
     font-size: 24px;
 }
 
